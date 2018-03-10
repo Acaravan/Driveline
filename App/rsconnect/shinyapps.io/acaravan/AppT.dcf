@@ -1,0 +1,13 @@
+name: AppT
+title: AppT
+username:
+account: acaravan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 296751
+bundleId: 1261901
+url: https://acaravan.shinyapps.io/Appt/
+when: 1520640240.11664
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: testapp.R
